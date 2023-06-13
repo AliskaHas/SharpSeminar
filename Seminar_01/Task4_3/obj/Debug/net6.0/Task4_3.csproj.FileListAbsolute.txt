@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\Task4_3.exe
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\Task4_3.deps.json
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\Task4_3.runtimeconfig.json
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\Task4_3.dll
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\ref\Task4_3.dll
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\bin\Debug\net6.0\Task4_3.pdb
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.dll
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\ref\Task4_3.dll
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.pdb
+C:\Users\nhasa\Desktop\SharpSeminar\Seminar_01\Task4_3\obj\Debug\net6.0\Task4_3.genruntimeconfig.cache
